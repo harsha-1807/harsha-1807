@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan S R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha-1807" alt="harsha-1807" /></a> </p>
 
-- 🌱 I’m currently learning **full stack development and DSA**
+- 🌱 I’m currently enhancing my skillset in **full stack development and DSA**
 
-- 👨‍💻 All of my projects are available at [https://harsha-1807.github.io/portfolio/](https://harsha-1807.github.io/portfolio/)
+- 👨‍💻 Here is my portfolio link [https://harsha-1807.github.io/portfolio/](https://harsha-1807.github.io/portfolio/)
 
 - 📫 How to reach me **harshaemail2020@gmail.com**
 
